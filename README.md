@@ -24,4 +24,4 @@ The database schema will be created automatically on application startup based o
 
 Testing the API with Postman
 You can use Postman to test the API endpoints by sending requests to http://localhost:9011. Make sure the application is running before sending requests.
-- Please refer to the Postman URL.dcx
+- Please refer to the Postman URL.docx
